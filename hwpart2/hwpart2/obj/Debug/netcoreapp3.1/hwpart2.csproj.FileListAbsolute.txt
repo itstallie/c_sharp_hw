@@ -1,0 +1,13 @@
+C:\Users\blueb\source\repos\hwpart2\hwpart2\bin\Debug\netcoreapp3.1\hwpart2.exe
+C:\Users\blueb\source\repos\hwpart2\hwpart2\bin\Debug\netcoreapp3.1\hwpart2.deps.json
+C:\Users\blueb\source\repos\hwpart2\hwpart2\bin\Debug\netcoreapp3.1\hwpart2.runtimeconfig.json
+C:\Users\blueb\source\repos\hwpart2\hwpart2\bin\Debug\netcoreapp3.1\hwpart2.runtimeconfig.dev.json
+C:\Users\blueb\source\repos\hwpart2\hwpart2\bin\Debug\netcoreapp3.1\hwpart2.dll
+C:\Users\blueb\source\repos\hwpart2\hwpart2\bin\Debug\netcoreapp3.1\hwpart2.pdb
+C:\Users\blueb\source\repos\hwpart2\hwpart2\obj\Debug\netcoreapp3.1\hwpart2.csprojAssemblyReference.cache
+C:\Users\blueb\source\repos\hwpart2\hwpart2\obj\Debug\netcoreapp3.1\hwpart2.AssemblyInfoInputs.cache
+C:\Users\blueb\source\repos\hwpart2\hwpart2\obj\Debug\netcoreapp3.1\hwpart2.AssemblyInfo.cs
+C:\Users\blueb\source\repos\hwpart2\hwpart2\obj\Debug\netcoreapp3.1\hwpart2.csproj.CoreCompileInputs.cache
+C:\Users\blueb\source\repos\hwpart2\hwpart2\obj\Debug\netcoreapp3.1\hwpart2.dll
+C:\Users\blueb\source\repos\hwpart2\hwpart2\obj\Debug\netcoreapp3.1\hwpart2.pdb
+C:\Users\blueb\source\repos\hwpart2\hwpart2\obj\Debug\netcoreapp3.1\hwpart2.genruntimeconfig.cache
